@@ -128,8 +128,6 @@ This project was built as part of a guided learning experience and helped me und
 ## 💬 Notes
 
 * This was a guided project where I focused heavily on understanding the pipeline flow.
-* The Python used inside Lambda/Glue was advanced for my level, but I fully understand the **architecture, purpose, and end-to-end data flow**.
-* I can clearly explain how data moves from MySQL → S3 → Lambda/Glue → Redshift → Power BI.
 
 ---
 
