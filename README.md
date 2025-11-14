@@ -131,14 +131,6 @@ This project was built as part of a guided learning experience and helped me und
 
 ---
 
-## 📌 Future Improvements
-
-* Add CI/CD using AWS CodePipeline
-* Add error handling and DLQs for Lambda
-* Add orchestration using AWS Step Functions
-
----
-
 ## 🙌 Acknowledgements
 
 Special thanks to CodeBasics for the guided project structure and explanations.
