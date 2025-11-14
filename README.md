@@ -147,4 +147,4 @@ Special thanks to CodeBasics for the guided project structure and explanations.
 
 ---
 
-A visual architecture diagram, is added for your reference.
+A visual architecture diagram is added for your reference.
